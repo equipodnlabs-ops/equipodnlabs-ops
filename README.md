@@ -3,7 +3,7 @@
 > Agencia freelance especializada en landing pages de alto impacto. Modernizá la imagen de tu negocio y convertí visitas en clientes.
 
 <p align="center">
-  <a href="https://equipodnlabs-ops.github.io/presentation/">
+  <a href="https://dnnlabs.vercel.app">
     <img src="https://img.shields.io/badge/🌐_VER_SITIO_WEB-GitHub_Pages-6C63FF?style=for-the-badge" alt="Ver sitio web en GitHub Pages" />
   </a>
 </p>
@@ -25,7 +25,7 @@
 ## Contacto rápido
 
 - 📧 [equipo.dnlabs@gmail.com](mailto:equipo.dnlabs@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/company/dyn-labs)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dyn-labs-31b119442/)
 - 📸 [Instagram](https://www.instagram.com/equipo.dnlabs)
 - 🎵 [TikTok](https://www.tiktok.com/@dyn_labs)
 
