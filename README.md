@@ -2,13 +2,7 @@
 
 > Agencia freelance especializada en landing pages de alto impacto. Modernizá la imagen de tu negocio y convertí visitas en clientes.
 
-<p align="center">
-  <a href="https://dnnlabs.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_VER_SITIO_WEB-GitHub_Pages-6C63FF?style=for-the-badge" alt="Ver sitio web en GitHub Pages" />
-  </a>
-</p>
-
-### 👉 [Abrir la página de presentación (equipodnlabs-ops.github.io)](https://equipodnlabs-ops.github.io/presentation/)
+### 👉 [Abrir la página de presentación (dnnlabs.vercel.app)](https://dnnlabs.vercel.app)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Landing_Pages-Alto_Impacto-6C63FF?style=for-the-badge" alt="Landing Pages de alto impacto" />
